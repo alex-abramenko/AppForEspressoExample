@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppForEspresso</string>
+    <string name="enter_name">Ваше имя</string>
+    <string name="open_dialog">Открыть диалог</string>
+    <string name="datapicker">Выбрать дату</string>
+    <string name="timepicker">Выбрать время</string>
+    <string name="toggle_actionmode">Переключить бар</string>
+    <string name="name_error">Заполните поле!</string>
+    <string name="dialog_title">Привет!</string>
+    <string name="dialog_message">Пожалуйста, выбери один из двух цветов.</string>
+    <string name="action_mode_one">Action режим</string>
+    <string name="action_about">О программе</string>
+    <string name="action_settings">Настройки</string>
+</resources>
